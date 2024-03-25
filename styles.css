@@ -1,1 +1,47 @@
 /* your code here */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Footer styling */
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-section {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footer-section h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.footer-section ul {
+    list-style: none;
+}
+
+.footer-section ul li {
+    margin-bottom: 5px;
+}
+
+.footer-section ul li a {
+    color: #a7a7a7;
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    color: #2a8ded;
+}
+
+.social-icon {
+    font-size: 1.5em;
+    margin-right: 10px;
+    color: #a7a7a7;
+}
