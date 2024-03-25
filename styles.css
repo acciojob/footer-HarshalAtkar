@@ -37,7 +37,7 @@
 }
             
 .media-icons{
-	display:fles;
+	display:flex;
 }
 .footer-section ul li a {
     color: #a7a7a7;
